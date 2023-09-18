@@ -7,31 +7,5 @@
         "author": "۳۳ اقامتگاه",
         "star": "8.9",
         "path": "/Jungle"
-      },
-      {
-        "id": 3,
-        "title": "کلبه",
-        "src": "./public/img/rt.jpg",
-        "author": "۲۲ اقامتگاه",
-        "star": "7.9",
-        "path": "/Cottage"
-      },
-      {
-        "id": 2,
-        "title": "ساحلی",
-        "src": "./public/img/a.jpg",
-        "author": "۰ اقامتگاه",
-        "star": "5.9",
-        "path": "/Coastal"
-      },
-      {
-        "id": 4,
-        "title": "ویلا های ییلاقی",
-        "src": "./public/img/09.jpg",
-        "author": "۰ اقامتگاه",
-        "star": "7.9",
-        "path": "/"
       }
-    ]
-  
   }
